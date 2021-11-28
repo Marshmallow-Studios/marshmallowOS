@@ -1,2 +1,4 @@
 # Marshmallow OS for Windows Phone
-A (kinda) weird project of mine.
+a (kinda) weird project of mine.
+
+it's basically intended to make a custom windows phone 7 rom
